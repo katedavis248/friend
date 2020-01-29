@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/katedavis248/friend/issues"
   },
-  "homepage": "https://github.com/katedavis248/friend#readme"
+  "homepage": "https://github.com/katedavis248/friend#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
