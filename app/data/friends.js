@@ -18,7 +18,7 @@ var friends = [
     },
     {
         "name": "Timothee",
-        "photo": "https://www.shutterstock.com/image-photo/portrait-mature-businessman-wearing-glasses-on-738242395",
+        "photo": "https://generated.photos/face/joyfull-black-young-adult-male-with-short-black-hair-and-brown-eyes--5dd090c9def8b400084d320b",
         "scores": [
             1,
             3,
@@ -35,7 +35,7 @@ var friends = [
     },
     {
         "name": "Mary",
-        "photo": "https://www.shutterstock.com/image-photo/indoor-portrait-beautiful-brunette-young-darkskinned-640005220",
+        "photo": "https://generated.photos/face/neutral-white-young-adult-female-with-medium-blond-hair-and-gray-eyes--5dd086c6def8b400084c8186",
         "scores": [
             3,
             4,
@@ -52,7 +52,7 @@ var friends = [
     },
     {
         "name": "John",
-        "photo": "https://www.shutterstock.com/image-photo/young-african-american-man-over-isolated-1574990242",
+        "photo": "https://generated.photos/face/neutral-asian-young-adult-male-with-short-black-hair-and-brown-eyes--5e0113c57b1b300007f79851",
         "scores": [
             2,
             5,
@@ -69,7 +69,7 @@ var friends = [
     },
     {
         "name": "Karen",
-        "photo": "https://www.shutterstock.com/image-photo/portrait-beautiful-senior-woman-front-white-1036351342",
+        "photo": "https://generated.photos/face/joyfull-white-young-adult-female-with-long-blond-hair-and-brown-eyes--5dd09cb4def8b400084dc56c",
         "scores": [
             3,
             5,
@@ -87,7 +87,7 @@ var friends = [
 
     {
         "name": "Chris",
-        "photo": "https://www.shutterstock.com/image-photo/portrait-young-handsome-man-smiling-outdoor-213159280",
+        "photo": "https://generated.photos/face/neutral-white-young-adult-male-with-short-brown-hair-and-brown-eyes--5e010c937b1b300007ed1559",
         "scores": [
             5,
             1,
@@ -105,7 +105,7 @@ var friends = [
     {
 
         "name": "Kimberly",
-        "photo": "https://www.shutterstock.com/image-photo/portrait-young-beautiful-cute-cheerful-girl-666258808",
+        "photo": "https://generated.photos/face/neutral-asian-young-adult-female-with-long-black-hair-and-brown-eyes--5dd09aa3def8b400084dae91",
         "scores": [
             5,
             1,
@@ -123,7 +123,7 @@ var friends = [
     {
 
         "name": "Mark",
-        "photo": "https://www.shutterstock.com/image-photo/portrait-happy-mature-businessman-wearing-spectacles-1288136518",
+        "photo": "https://generated.photos/face/neutral-white-elderly-male-with-short-gray-hair-and-gray-eyes--5e011b6e7b1b300007030cb5",
         "scores": [
             5,
             1,
@@ -141,7 +141,7 @@ var friends = [
     {
 
         "name": "Emily",
-        "photo": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+        "photo": "https://generated.photos/face/joyfull-asian-young-adult-female-with-long-black-hair-and-brown-eyes--5dd09bc7def8b400084dbb42",
         "scores": [
             2,
             4,
