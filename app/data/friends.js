@@ -1,7 +1,7 @@
 var friends = [
     {
         "name": "Ahmed",
-        "photo": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+        "photo": "https://generated.photos/face/neutral-white-young-adult-male-with-short-brown-hair-and-brown-eyes--5dd09ca2def8b400084dc4b4",
         "scores": [
             5,
             1,
